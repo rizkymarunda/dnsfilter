@@ -1,4 +1,4 @@
-# dnsfilter & IP Blacklist
+# DNS filter & IP Blacklist
 
 Simple list added from various source.
 List are can be use as Pi-hole ,Ad Guard, & Various Firewall devices (Paloalto, Mikrotik, etc) source list.
