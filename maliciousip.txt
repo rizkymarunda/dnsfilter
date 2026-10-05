@@ -3,6 +3,7 @@
 # Configured by rizky.md@gmail.com aka spikecursed 
 # Last update : Mon 21 Sep 10:16:01 WIB 2026
 #
+31.77.251.0/24
 101.128.94.141
 101.128.99.185
 101.128.99.77
