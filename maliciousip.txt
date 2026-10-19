@@ -3,4 +3,10 @@
 # Configured by rizky.md@gmail.com aka spikecursed 
 # Last update : Tue 13 Oct 15:39:01 WIB 2026
 #
-
+100.58.116.226
+101.126.53.14
+101.126.67.70
+101.255.104.193
+101.255.204.53
+101.26.28.119
+101.32.208.70
